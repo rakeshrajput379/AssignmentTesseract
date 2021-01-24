@@ -1,0 +1,3 @@
+include ':AIDLServiceProvider'
+include ':app'
+rootProject.name = "AIDLClientSample"

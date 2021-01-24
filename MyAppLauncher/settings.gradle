@@ -1,0 +1,3 @@
+include ':MyLauncherLib'
+include ':app'
+rootProject.name = "MyAppLauncher"
